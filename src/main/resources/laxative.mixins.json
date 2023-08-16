@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.daveyl2013.laxative.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "CommandDataMixin",
+    "CommandRideMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

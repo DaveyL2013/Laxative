@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "laxative",
+  "version": "${version}",
+  "name": "Laxative",
+  "description": "Makes command restrictions more lax!",
+  "authors": ["DaveyL2013"],
+  "contact": {
+    "website": "https://modrinth.com/mod/laxative",
+    "repo": "https://github.com/DaveyL2013/Laxative"
+  },
+  "license": "AGPL-3.0-only",
+  "environment": "*",
+  "mixins": [
+    "laxative.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.12",
+    "minecraft": "1.20.1"
+  }
+}
