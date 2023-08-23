@@ -2,15 +2,11 @@
 
 A Minecraft mod that makes command restrictions more lax!
 
-
 ## Currently Upgraded Commands
 
 - \[\/data\] now supports editing players
 - \[\/ride\] now allows players to be ridden
-- <sup><sub>\[\/enchant\] now allows any level enchantment to be put on any item</sup></sub> <u>currently borked, disabled</u> :/
-
-
-
+- \[\/enchant\] now allows any level enchantment to be put on any item
 
 ## Contributing
 
